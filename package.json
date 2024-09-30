@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "express": "^4.21.0",
+    "next-auth": "^4.24.8",
+    "nodemon": "^3.1.7"
+  }
+}
